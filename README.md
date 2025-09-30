@@ -34,10 +34,9 @@ Konsep OOP (Object Oriented Progrmming) yang diterapkan :
     3. tambahAnggota(Pelatih pl) → menambah pelatih.
 
 4. **Abstraction**
-   
-   - Dibuat abstract class Anggota yang berisi:
-   - Atribut umum (nama, usia).
-   - Abstract method latihan() → wajib dioverride oleh Pemain dan Pelatih.
+     Dibuat abstract class Anggota yang berisi:
+     - Atribut umum (nama, usia).
+     - Abstract method latihan() → wajib dioverride oleh Pemain dan Pelatih.
 
 📂 Struktur Proyek
   📋 Fitur Program
